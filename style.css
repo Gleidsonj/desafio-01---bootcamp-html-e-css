@@ -1,0 +1,168 @@
+/* estilizações globais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* banner */
+.banner {
+    background-color: #0a0a0a;
+    padding: 80px 20px;
+    background-image: url(assets/images/banner.png);
+    border-bottom: 1px solid #2f9bf4;
+}
+
+.banner-content img {
+    max-width: 180px;
+    margin-bottom: 20px;
+}
+
+.banner h1 {
+    font-size: 2rem;
+    color: #2f9bf4;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.banner p {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    color: #ccc;
+}
+
+.banner button {
+    padding: 12px 28px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2f9bf4;
+    background: transparent;
+    border: 2px solid #2f9bf4;
+}
+
+/* seção curso */
+#course-content {
+    padding: 60px 20px;
+}
+
+#course-content h2 {
+    font-size: 1.6rem;
+    color: #2f9bf4;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#course-content p {
+    max-width: 800px;
+    margin: 0 auto 40px;
+    color: #ccc;
+}
+
+.modules-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.module {
+    background: #111;
+    padding: 15px;
+    border-radius: 25px;
+    border: 1px solid #2f9bf4;
+    font-size: 1rem;
+    color: #fff;
+}
+
+.module span {
+    color: #2f9bf4;
+    font-weight: bold;
+}
+
+/* seção transforme o mundo */
+#transform-world {
+  background: url("assets/images/woman-code.png") no-repeat center/cover;
+  background-attachment: fixed;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  padding-left: 80px;
+  text-align: left;
+}
+
+#transform-world p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  max-width: 400px;
+  line-height: 1.2;
+}
+
+#transform-world {
+    background-color: #111;
+    padding: 60px 20px;
+}
+
+#transform-world p {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #2f9bf4;
+    letter-spacing: 2px;
+}
+
+/* desafios profissionais */
+#professional-challenges {
+    padding: 60px 20px;
+}
+
+#professional-challenges h2 {
+    font-size: 1.6rem;
+    color: #2f9bf4;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#professional-challenges img {
+    max-width: 800px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+#professional-challenges p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #ccc;
+}
+
+/* footer */
+footer {
+    border-top: 1px solid #2f9bf4;
+    background: #111;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px;
+}
+
+footer img {
+    max-width: 200px;
+    margin-bottom: 15px;
+}
+
+footer p {
+    font-size: 0.9rem;
+    color: #ccc;
+}
+
+footer a {
+    color: #2f9bf4;
+    text-decoration: none;
+}
