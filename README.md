@@ -11,11 +11,6 @@ O objetivo é criar uma **landing page moderna e responsiva** utilizando **HTML 
 
 ---
 
-## 📸 Demonstração
-
-![Preview do Projeto](assets/images/preview.png)
-
----
 
 ## 🛠 Tecnologias Utilizadas
 
