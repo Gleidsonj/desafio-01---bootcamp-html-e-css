@@ -1,6 +1,6 @@
 # 🚀 Transforme o Mundo - Bootcamp Santander
 
-Projeto desenvolvido durante o **Bootcamp Santander - Fullstack** na [DIO (Digital Innovation One)](https://www.dio.me/).  
+Projeto desenvolvido durante o **Bootcamp Santander - Front-End** na [DIO (Digital Innovation One)](https://www.dio.me/).  
 O objetivo é criar uma **landing page moderna e responsiva** utilizando **HTML e CSS**, aplicando conceitos como:
 
 - Estrutura semântica de páginas web com HTML5  
